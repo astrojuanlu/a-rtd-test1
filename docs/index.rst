@@ -11,6 +11,8 @@ Welcome to RTD versions test's documentation!
    :caption: Contents:
 
 
+And now this should be shown.
+
 
 Indices and tables
 ==================
